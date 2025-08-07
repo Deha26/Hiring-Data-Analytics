@@ -1,7 +1,7 @@
 Hiring Data Analytics : 
 
 Dataset 
-- Hiring Data** (in `.xlsx` format)
+- Hiring Data (in `.xlsx` format)
 
 Objective
 - Analyzed hiring trends to uncover key factors influencing candidate selection using historical recruitment data.
