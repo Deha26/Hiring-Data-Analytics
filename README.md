@@ -17,7 +17,7 @@ Process Overview
 - Developed an interactive dashboard using Tableau to visualize key insights and trends.
 
 Tableau Dashboard
-View the dashboard here : [Hiring Data Analytics – Tableau Dashboard](https://public.tableau.com/app/profile/dehasri.s/viz/HiringDataAanlytics/Dashboard1)
+View the dashboard here : [Hiring Data Analytics – Tableau Dashboard](https://public.tableau.com/app/profile/dehasri.s/viz/HiringDataAnalytics/Dashboard2)
 
 Skills Demonstrated
 - Data cleaning & preprocessing  
